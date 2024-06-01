@@ -92,6 +92,6 @@ a:hover {
 #lowerbar > div {
     width: 70%;
 }
-#lowerbar > div > p, #navbar > div {
+#lowerbar > div > p {
     margin-left: 40px;
 }
