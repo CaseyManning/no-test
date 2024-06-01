@@ -1,0 +1,65 @@
+[
+    {
+      "name": "ESCHA (FOUNDER/OPERATOR)",
+      "lat": 19.4424,
+      "lng": -99.131,
+      "AR": "CN",
+      "population": 19028000
+    },
+    {
+      "name": "NESO (PRODUCER)",
+      "lat": 19.017,
+      "lng": 72.857,
+      "AR": "US",
+      "population": 18978000
+    },
+    {
+      "name": "SHOGONODO (PRODUCER)",
+      "lat": -23.5587,
+      "lng": -46.625,
+      "AR": "ES",
+      "population": 18845000
+    },
+    {
+      "name": "EMUNE (PRODUCER)",
+      "lat": 28.67,
+      "lng": 77.23,
+      "AR": "RU",
+      "population": 15926000
+    },
+    {
+      "name": "SMEYUL (PRODUCER)",
+      "lat": 31.2165,
+      "lng": 121.4365,
+      "AR": "MX",
+      "population": 14987000
+    },
+    {
+      "name": "PAISLEY (PRODUCER)",
+      "lat": 22.495,
+      "lng": 88.3247,
+      "AR": "NG",
+      "population": 14787000
+    },
+    {
+      "name": "KAVARI (PRODUCER)",
+      "lat": 34.1139,
+      "lng": -118.4068,
+      "AR": "GT",
+      "population": 12815475
+    },
+    {
+      "name": "MARS KUMARI (PRODUCER)",
+      "lat": 23.7231,
+      "lng": 90.4086,
+      "AR": "ZM",
+      "population": 12797394
+    },
+    {
+      "name": "DV-I (PRODUCER)",
+      "lat": 23.7231,
+      "lng": 90.4086,
+      "AR": "ZM",
+      "population": 12797394
+    }
+  ]

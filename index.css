@@ -1,0 +1,97 @@
+@font-face {
+  font-family: 'RobotoMono';
+  font-style: normal;
+  font-weight: 700;
+  src: url('public/roboto-mono-v5-latin-700.woff') format('truetype');
+}
+@font-face {
+    font-family: 'Haas';
+    font-style: normal;
+    font-weight: 700;
+    src: url('public/NHaasGroteskTXPro-75Bd.woff2') format('truetype');
+  }
+
+p {
+    font-family: 'RobotoMono', monospace;
+    color: white;
+    z-index: 56;
+}
+
+#app {
+    position: absolute;
+    top: 0;
+}
+
+html, body {
+    overflow: hidden;
+}
+
+#titlebar > div > p {
+    font-family: 'Haas', sans-serif;
+    font-size: 3.5em;
+    color: white;
+    z-index: 1;
+    margin: 0px;
+    margin-left: 40px;
+}
+#titlebar {
+    margin-top: 10vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    height: 60px;
+}
+
+img {
+    height: 100%;
+}
+
+#navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    margin-top: 2vh;
+}
+a {
+    font-family: 'RobotoMono', monospace;
+    font-size: 1em;
+    color: white;
+    z-index: 1;
+    margin: 0 10px;
+    text-decoration: none;
+    cursor: pointer;
+    z-index: 10;
+}
+a:hover {
+    text-decoration: underline;
+}
+#navbar > div, #titlebar > div {
+    display: flex;
+    flex-direction: row;
+    width: min-content;
+    width: 70%;
+}
+#titlebar > div {
+    /* justify-content: space-evenly; */
+}
+#navbar > p {
+    margin: 0;
+}
+
+#lowerbar {
+    position: absolute;
+    bottom: 2vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    height: 60px;
+    margin-bottom: 10px;
+}
+#lowerbar > div {
+    width: 70%;
+}
+#lowerbar > div > p, #navbar > div {
+    margin-left: 40px;
+}

@@ -1,0 +1,6 @@
+{
+    "search.exclude": {
+        "**/.vite": true,
+        "**/node_modules": false
+    }
+}
